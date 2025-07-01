@@ -62,3 +62,7 @@ Behavior: changeColor(), startTimer(), blink()
 State: waterLevel, currentCycle, doorStatus
 Behavior: startWash(), rinse(), spin(), drainWater()
 ------
+17.3D Printer
+State: filamentType, temperature, printStatus
+Behavior: startPrint(), pausePrint(), loadFilament()
+------
