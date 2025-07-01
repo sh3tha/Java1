@@ -34,3 +34,7 @@ Behavior: printDocument(), scanDocument(), turnOn(), turnOff()
 State: title, author, numberOfPages
 Behavior: open(), close(), bookmarkPage(), readPage()
 ------
+10.Pen
+State: inkColor, inkLevel, isCapOn
+Behavior: write(), cap(), uncap(), refill()
+------
