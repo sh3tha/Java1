@@ -42,3 +42,7 @@ Behavior: write(), cap(), uncap(), refill()
 State: bladeSpeed, isLidOn, containerCapacity
 Behavior: blend(), stop(), changeSpeed()
 ------
+12.Door
+State: isOpen, isLocked, material
+Behavior: open(), close(), lock(), unlock()
+------
