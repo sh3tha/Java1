@@ -46,3 +46,7 @@ Behavior: blend(), stop(), changeSpeed()
 State: isOpen, isLocked, material
 Behavior: open(), close(), lock(), unlock()
 ------
+13.Mirror
+State: size, shape, isFoggy
+Behavior: reflect(), clean(), defog()
+------
