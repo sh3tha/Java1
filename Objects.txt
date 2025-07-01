@@ -14,3 +14,7 @@ Behavior: takePhoto(), zoomIn(), zoomOut(), turnOn(), turnOff()
 State: batteryLevel, isOn, processorSpeed
 Behavior: bootUp(), shutDown(), runApplication(), sleep()
 ------
+5.Television
+State: channel, volume, isOn
+Behavior: turnOn(), turnOff(), changeChannel(), adjustVolume()
+------
