@@ -70,3 +70,7 @@ Behavior: startPrint(), pausePrint(), loadFilament()
 State: color, material, isFull
 Behavior: fill(), empty(), drink()
 ------
+19.Bottle
+State: isFull, color, material
+Behavior: open(), close(), pour()
+------
