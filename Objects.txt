@@ -10,3 +10,7 @@ Behavior: makeCall(), sendMessage(), takePhoto(), charge()
 State: resolution, batteryLevel, isOn
 Behavior: takePhoto(), zoomIn(), zoomOut(), turnOn(), turnOff()
 ------
+4.Laptop
+State: batteryLevel, isOn, processorSpeed
+Behavior: bootUp(), shutDown(), runApplication(), sleep()
+------
