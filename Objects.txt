@@ -1,0 +1,79 @@
+1.Car
+State: color, speed, fuelLevel
+Behavior: start(), accelerate(), brake(), refuel()
+------
+2.Smartphone
+State: brand, batteryPercentage, isOn
+Behavior: makeCall(), sendMessage(), takePhoto(), charge()
+------
+3.Camera
+State: resolution, batteryLevel, isOn
+Behavior: takePhoto(), zoomIn(), zoomOut(), turnOn(), turnOff()
+------
+4.Laptop
+State: batteryLevel, isOn, processorSpeed
+Behavior: bootUp(), shutDown(), runApplication(), sleep()
+------
+5.Television
+State: channel, volume, isOn
+Behavior: turnOn(), turnOff(), changeChannel(), adjustVolume()
+------
+6.Fan
+State: speedLevel, isOn, oscillation
+Behavior: turnOn(), turnOff(), increaseSpeed(), decreaseSpeed(), oscillate()
+------
+7.Bicycle
+State: gear, speed, tirePressure
+Behavior: pedal(), brake(), changeGear()
+------
+8.Printer
+State: inkLevel, paperCount, isOn
+Behavior: printDocument(), scanDocument(), turnOn(), turnOff()
+------
+9.Book
+State: title, author, numberOfPages
+Behavior: open(), close(), bookmarkPage(), readPage()
+------
+10.Pen
+State: inkColor, inkLevel, isCapOn
+Behavior: write(), cap(), uncap(), refill()
+------
+11.Blender
+State: bladeSpeed, isLidOn, containerCapacity
+Behavior: blend(), stop(), changeSpeed()
+------
+12.Door
+State: isOpen, isLocked, material
+Behavior: open(), close(), lock(), unlock()
+------
+13.Mirror
+State: size, shape, isFoggy
+Behavior: reflect(), clean(), defog()
+------
+14.Glasses
+State: lensType, frameColor, isWorn
+Behavior: wear(), remove(), cleanLenses()
+------
+15.Traffic Light
+State: currentColor, location, timer
+Behavior: changeColor(), startTimer(), blink()
+------
+16.Washing Machine
+State: waterLevel, currentCycle, doorStatus
+Behavior: startWash(), rinse(), spin(), drainWater()
+------
+17.3D Printer
+State: filamentType, temperature, printStatus
+Behavior: startPrint(), pausePrint(), loadFilament()
+------
+18.Cup
+State: color, material, isFull
+Behavior: fill(), empty(), drink()
+------
+19.Bottle
+State: isFull, color, material
+Behavior: open(), close(), pour()
+------
+20.Bag
+State: color, size, isOpen
+Behavior: open(), close(), carry()
