@@ -54,3 +54,7 @@ Behavior: reflect(), clean(), defog()
 State: lensType, frameColor, isWorn
 Behavior: wear(), remove(), cleanLenses()
 ------
+15.Traffic Light
+State: currentColor, location, timer
+Behavior: changeColor(), startTimer(), blink()
+------
