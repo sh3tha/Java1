@@ -6,3 +6,7 @@ Behavior: start(), accelerate(), brake(), refuel()
 State: brand, batteryPercentage, isOn
 Behavior: makeCall(), sendMessage(), takePhoto(), charge()
 ------
+3.Camera
+State: resolution, batteryLevel, isOn
+Behavior: takePhoto(), zoomIn(), zoomOut(), turnOn(), turnOff()
+------
