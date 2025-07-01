@@ -2,3 +2,7 @@
 State: color, speed, fuelLevel
 Behavior: start(), accelerate(), brake(), refuel()
 ------
+2.Smartphone
+State: brand, batteryPercentage, isOn
+Behavior: makeCall(), sendMessage(), takePhoto(), charge()
+------
