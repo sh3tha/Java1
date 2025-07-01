@@ -66,3 +66,7 @@ Behavior: startWash(), rinse(), spin(), drainWater()
 State: filamentType, temperature, printStatus
 Behavior: startPrint(), pausePrint(), loadFilament()
 ------
+18.Cup
+State: color, material, isFull
+Behavior: fill(), empty(), drink()
+------
