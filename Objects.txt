@@ -58,3 +58,7 @@ Behavior: wear(), remove(), cleanLenses()
 State: currentColor, location, timer
 Behavior: changeColor(), startTimer(), blink()
 ------
+16.Washing Machine
+State: waterLevel, currentCycle, doorStatus
+Behavior: startWash(), rinse(), spin(), drainWater()
+------
