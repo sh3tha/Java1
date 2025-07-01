@@ -26,3 +26,7 @@ Behavior: turnOn(), turnOff(), increaseSpeed(), decreaseSpeed(), oscillate()
 State: gear, speed, tirePressure
 Behavior: pedal(), brake(), changeGear()
 ------
+8.Printer
+State: inkLevel, paperCount, isOn
+Behavior: printDocument(), scanDocument(), turnOn(), turnOff()
+------
