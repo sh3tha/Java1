@@ -38,3 +38,7 @@ Behavior: open(), close(), bookmarkPage(), readPage()
 State: inkColor, inkLevel, isCapOn
 Behavior: write(), cap(), uncap(), refill()
 ------
+11.Blender
+State: bladeSpeed, isLidOn, containerCapacity
+Behavior: blend(), stop(), changeSpeed()
+------
