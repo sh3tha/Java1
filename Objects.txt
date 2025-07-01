@@ -50,3 +50,7 @@ Behavior: open(), close(), lock(), unlock()
 State: size, shape, isFoggy
 Behavior: reflect(), clean(), defog()
 ------
+14.Glasses
+State: lensType, frameColor, isWorn
+Behavior: wear(), remove(), cleanLenses()
+------
