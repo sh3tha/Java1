@@ -30,3 +30,7 @@ Behavior: pedal(), brake(), changeGear()
 State: inkLevel, paperCount, isOn
 Behavior: printDocument(), scanDocument(), turnOn(), turnOff()
 ------
+9.Book
+State: title, author, numberOfPages
+Behavior: open(), close(), bookmarkPage(), readPage()
+------
