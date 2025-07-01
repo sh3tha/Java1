@@ -18,3 +18,7 @@ Behavior: bootUp(), shutDown(), runApplication(), sleep()
 State: channel, volume, isOn
 Behavior: turnOn(), turnOff(), changeChannel(), adjustVolume()
 ------
+6.Fan
+State: speedLevel, isOn, oscillation
+Behavior: turnOn(), turnOff(), increaseSpeed(), decreaseSpeed(), oscillate()
+------
