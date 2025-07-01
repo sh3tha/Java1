@@ -74,3 +74,6 @@ Behavior: fill(), empty(), drink()
 State: isFull, color, material
 Behavior: open(), close(), pour()
 ------
+20.Bag
+State: color, size, isOpen
+Behavior: open(), close(), carry()
