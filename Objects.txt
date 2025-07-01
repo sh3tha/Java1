@@ -22,3 +22,7 @@ Behavior: turnOn(), turnOff(), changeChannel(), adjustVolume()
 State: speedLevel, isOn, oscillation
 Behavior: turnOn(), turnOff(), increaseSpeed(), decreaseSpeed(), oscillate()
 ------
+7.Bicycle
+State: gear, speed, tirePressure
+Behavior: pedal(), brake(), changeGear()
+------
